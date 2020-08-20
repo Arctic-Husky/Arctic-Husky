@@ -1,4 +1,5 @@
-### Hi there, my name is Caio Schmidt!<br>
+### Hi there, my name is Caio Schmidt!
+<br>
 
 <!--
 **Arctic-Husky/Arctic-Husky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
