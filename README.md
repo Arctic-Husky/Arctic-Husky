@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C
 - 📫 You can reach me at caiofonseca6@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I stream on [Twitch.tv](https://www.twitch.tv/arctichusky1)
+- ⚡ Fun fact: Sometimes I stream on [twitch.tv](https://www.twitch.tv/arctichusky1)
 
 
 <code><img src="https://github-readme-stats.vercel.app/api?username=Arctic-Husky&show_icons=true&theme=dark&line_height=27"></code>
