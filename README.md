@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying to become a game developer
+- 🔭 I’m studying to become a game developer
 - 🌱 I’m currently learning C
 - 📫 You can reach me at caiofonseca6@gmail.com
 - 😄 Pronouns: He/Him
