@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m studying to become a game developer
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C (my favorite language so far!)
 - 📫 You can reach me at caiofonseca6@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I stream on [twitch.tv](https://www.twitch.tv/arctichusky1)
