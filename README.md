@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m graduating this year! :o
-- 🌱 I’m currently learning about computer graphics
 - 📫 You can reach me at caiofonseca6@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I stream on [twitch.tv](https://www.twitch.tv/arctichusky1)
