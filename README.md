@@ -1,7 +1,7 @@
 ### Hi there, my name is Caio Schmidt!
 <br>
 
-- 📫 You can reach me at caiofonseca6@gmail.com
+- 📫 You can reach me at caiofonsecaprofissional@gmail.com
 - 😄 Pronouns: He/Him
 
 <br>
