@@ -1,12 +1,8 @@
 ### Hi there, my name is Caio Schmidt!
 <br>
 
-
-
-- 🔭 I’m graduating this year! :o
 - 📫 You can reach me at caiofonseca6@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I stream on [twitch.tv](https://www.twitch.tv/arctichusky1)
 
 <br>
 
